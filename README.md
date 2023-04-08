@@ -1,1 +1,1 @@
-# ytb_downloader_silentium
+Bonjour, Voici un script pour installer des videos Youtube et faire les recherches depuis la fenêtre, seulement, le module pytube que j'utilise pour faire certaines requètes à été mis a jour donc le logiciel et l'app ne fonctionnent plus bien (erreur lors de l'envoi de la requète)
